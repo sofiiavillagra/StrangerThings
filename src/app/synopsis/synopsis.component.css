@@ -1,0 +1,13 @@
+h2 {
+    color: white;
+}
+p{
+    color:white
+}
+
+.synopsis-container{
+    background-image: url(https://variety.com/wp-content/uploads/2022/08/StrangerThings_StrangerThings4_9_02_14_28_08.jpg?w=681&h=383&crop=1&resize=681%2C383);
+    background-position: center;   
+    background-size: cover;
+
+} 

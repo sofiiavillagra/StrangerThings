@@ -1,0 +1,8 @@
+.main-container{
+    background-color: black;
+}
+.content-container{
+    display: flex;
+    align-items: stretch;
+    background-color: white;
+}
